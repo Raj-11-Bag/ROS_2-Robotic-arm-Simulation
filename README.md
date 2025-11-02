@@ -1,4 +1,4 @@
-# 🤖 Arduinobot – ROS 2 Robotic Arm Simulation
+# 🤖 ROS 2 Robotic Arm Simulation
 
 This project simulates a modular robotic arm (Arduinobot) using **ROS 2 Foxy**, **Gazebo**, and **ros2_control**. It showcases a complete robot description, control setup, and simulation environment integration — designed to be hardware-ready and extensible for advanced tasks like **additive manufacturing (Direct Energy Deposition)**.
 
