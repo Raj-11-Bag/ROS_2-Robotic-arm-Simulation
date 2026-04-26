@@ -1,6 +1,6 @@
 # 🤖 ROS 2 Robotic Arm Simulation
 
-This project simulates a modular robotic arm (Arduinobot) using **ROS 2 Foxy**, **Gazebo**, and **ros2_control**. It showcases a complete robot description, control setup, and simulation environment integration — designed to be hardware-ready and extensible for advanced tasks like **additive manufacturing (Direct Energy Deposition)**.
+This project simulates a modular robotic arm (Arduinobot) using **ROS 2 Foxy**, **Gazebo** and **ros2_control**. It showcases a complete robot description, control setup and simulation environment integration — designed to be hardware-ready and extensible for advanced tasks like **additive manufacturing (Direct Energy Deposition)**.
 
 ## 📽️ Demo Video
 [![Watch the video](https://img.youtube.com/vi/CfOsB5Pa6sc/0.jpg)](https://youtu.be/CfOsB5Pa6sc)
@@ -33,7 +33,7 @@ This project simulates a modular robotic arm (Arduinobot) using **ROS 2 Foxy**, 
 ```
 
 ## 🚀 Launch Instructions
-Ensure you're using ROS 2 Foxy, have sourced your workspace, and installed all required packages (see dependencies below).
+Ensure you're using ROS 2 Foxy, have sourced your workspace and installed all required packages (see dependencies below).
 
 1. Launch in RViz (Robot Model View)
 ```
